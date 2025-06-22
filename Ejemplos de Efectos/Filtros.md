@@ -58,6 +58,3 @@ Este filtro suaviza o elimina frecuencias altas.
 **Video demostrativo:**
 
 https://github.com/user-attachments/assets/1eb93608-4888-4547-b0c3-b4976523b628
-
----
-
