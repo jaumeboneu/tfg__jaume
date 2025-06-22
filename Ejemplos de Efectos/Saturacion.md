@@ -9,5 +9,3 @@ El objetivo es observar c√≥mo se comporta el sonido cuando se somete a saturaci√
 ## 1. Video demostrativo
 
 https://github.com/user-attachments/assets/52d92b4f-e87f-417e-93d6-554ed970b660
-
----
