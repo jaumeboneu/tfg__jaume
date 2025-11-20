@@ -1,9 +1,9 @@
-# Análisis de Filtros y Controles de Mezcla y Volumen
+# Analysis of Filters and Mix & Volume Controls
 
-Este ejemplo muestra el efecto de tres controles del plugin sobre un **loop de batería**: el filtro pasa bajos (LPF), el control de mezcla (Mix) y el control de ganancia de salida (Output Gain).
+This example shows the effect of three plugin controls on a **drum loop**: the low-pass filter (LPF), the mix control (Mix), and the output gain control (Output Gain).
 
 ---
 
-## 1. Resultado
+## 1. Result
 
 https://github.com/user-attachments/assets/207b4c4b-5497-49c7-b721-c6521a937178
